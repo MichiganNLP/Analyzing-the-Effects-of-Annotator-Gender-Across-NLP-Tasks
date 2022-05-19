@@ -1,0 +1,1 @@
+SUBTASKS = ["anger", "disgust", "fear", "joy", "sadness", "surprise", "valence"]
